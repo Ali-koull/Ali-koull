@@ -39,7 +39,7 @@
 </p>
 
 ### 🧠 Featured Projects
-- [Project One](https://github.com/yourusername/project-one): Brief description.
+- [Project One](https://vacagest.netlify.app/): Brief description.
 - [Project Two](https://github.com/yourusername/project-two): Brief description.
 
 ---
